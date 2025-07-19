@@ -1,11 +1,11 @@
-# 👋 Hello! I'm Kieu Giang Bien  
+# Hello! I'm Kieu Giang Bien  
 
-## 🚀 About Me  
+## About Me  
 I am a student majoring in **Computer Engineering (IT2)** at the School of Information and Communication Technology, Hanoi University of Science and Technology.  
 
-## 🛠 Skills  
-- 🔹 Programming Languages: `Python`, `Java`, `C++`  
-- 🔹 Frameworks: `TensorFlow`, `PyTorch`  
+## Skills  
+- 🔹 Programming Languages: `Python`,  `C++`, `JavaScript`
+- 🔹 Frameworks: `TensorFlow`, `PyTorch`, `scikit-learn`
 - 🔹 Data Analysis: `Pandas`, `Matplotlib`, `Seaborn`  
 
 ## 📫 Contact Me  
