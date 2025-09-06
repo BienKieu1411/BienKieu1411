@@ -27,7 +27,10 @@ Love learning by building real-world projects
   </a>
   <a href="https://github.com/BienKieu1411/CalmMind" style="display: inline-block; vertical-align: top;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BienKieu1411&repo=CalmMind&theme=tokyonight" />
+  <a href="https://github.com/BienKieu1411/Project_AI_20242" style="display: inline-block; vertical-align: top;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BienKieu1411&repo=Project_AI_20242&theme=tokyonight&cache_seconds=0" />
   </a>
+
 </div>
 
 
