@@ -28,6 +28,10 @@ Love learning by building real-world projects
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BienKieu1411&repo=RL4Games&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/BienKieu1411/CalmMind">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BienKieu1411&repo=CalmMind&theme=tokyonight" />
+</a>
+
 ---
 
 ## GitHub Stats  
