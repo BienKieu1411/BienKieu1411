@@ -18,19 +18,21 @@ Love learning by building real-world projects
 
 **[Visit My Portfolio](https://bienkieu1411.github.io/Portfolio/)**  
 
-<a href="https://github.com/BienKieu1411/Project_AI_20242">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BienKieu1411&repo=Project_AI_20242&theme=tokyonight" />
-</a>
-<a href="https://github.com/chopbong/kanbask">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chopbong&repo=kanbask&theme=tokyonight" />
-</a>
-<a href="https://github.com/BienKieu1411/RL4Games">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BienKieu1411&repo=RL4Games&theme=tokyonight" />
-</a>
+<div style="text-align: center;">
+  <a href="https://github.com/BienKieu1411/Project_AI_20242" style="display: inline-block; vertical-align: top;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BienKieu1411&repo=Project_AI_20242&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/chopbong/kanbask" style="display: inline-block; vertical-align: top;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chopbong&repo=kanbask&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/BienKieu1411/RL4Games" style="display: inline-block; vertical-align: top;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BienKieu1411&repo=RL4Games&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/BienKieu1411/CalmMind" style="display: inline-block; vertical-align: top;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BienKieu1411&repo=CalmMind&theme=tokyonight" />
+  </a>
+</div>
 
-<a href="https://github.com/BienKieu1411/CalmMind">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BienKieu1411&repo=CalmMind&theme=tokyonight" />
-</a>
 
 ---
 
