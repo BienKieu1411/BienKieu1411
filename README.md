@@ -30,6 +30,13 @@ Love learning by building real-world projects
   <a href="https://github.com/BienKieu1411/Project_AI_20242" style="display: inline-block; vertical-align: top;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BienKieu1411&repo=Project_AI_20242&theme=tokyonight" />
   </a>
+  <a href="https://github.com/BienKieu1411/Project_OOP_20241" style="display: inline-block; vertical-align: top;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BienKieu1411&repo=Project_OOP_20241&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/BienKieu1411/DocBot" style="display: inline-block; vertical-align: top;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BienKieu1411&repo=DocBot&theme=tokyonight" />
+  </a>
 
 </div>
 
