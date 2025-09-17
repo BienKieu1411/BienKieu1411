@@ -50,11 +50,6 @@ Love learning by building real-world projects
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BienKieu1411&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BienKieu1411&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-
 ---
 
 ## Connect with Me  
