@@ -18,28 +18,31 @@ Love learning by building real-world projects
 
 **[Visit My Portfolio](https://bienkieu1411.github.io/Portfolio/)**  
 
-<div style="text-align: center;">
-  <a href="https://github.com/chopbong/kanbask" style="display: inline-block; vertical-align: top;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chopbong&repo=kanbask&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/BienKieu1411/RL4Games" style="display: inline-block; vertical-align: top;">
+## Pinned Repositories  
+
+<p align="center">
+  <a href="https://github.com/BienKieu1411/RL4Games">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BienKieu1411&repo=RL4Games&theme=tokyonight" />
   </a>
-  <a href="https://github.com/BienKieu1411/CalmMind" style="display: inline-block; vertical-align: top;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BienKieu1411&repo=CalmMind&theme=tokyonight&cache_seconds=0" />
-  <a href="https://github.com/BienKieu1411/Project_AI_20242" style="display: inline-block; vertical-align: top;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BienKieu1411&repo=Project_AI_20242&theme=tokyonight" />
+  <a href="https://github.com/BienKieu1411/CodeT5Plus-CSR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BienKieu1411&repo=CodeT5Plus-CSR&theme=tokyonight" />
   </a>
-  <a href="https://github.com/BienKieu1411/Project_OOP_20241" style="display: inline-block; vertical-align: top;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BienKieu1411&repo=Project_OOP_20241&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/BienKieu1411/DocBot" style="display: inline-block; vertical-align: top;">
+  <a href="https://github.com/BienKieu1411/DocBot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BienKieu1411&repo=DocBot&theme=tokyonight" />
   </a>
-
-</div>
-
+  <a href="https://github.com/BienKieu1411/CalmMind">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BienKieu1411&repo=CalmMind&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/chopbong/kanbask">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chopbong&repo=kanbask&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/BienKieu1411/Project_AI_20242">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BienKieu1411&repo=Project_AI_20242&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/BienKieu1411/Project_OOP_20241">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BienKieu1411&repo=Project_OOP_20241&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
@@ -48,6 +51,22 @@ Love learning by building real-world projects
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BienKieu1411&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BienKieu1411&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+## GitHub Streak  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BienKieu1411&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+## GitHub Activity Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BienKieu1411&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
